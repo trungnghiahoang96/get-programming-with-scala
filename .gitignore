@@ -19,3 +19,8 @@ out/
 .worksheet
 .idea
 **/.bsp
+
+# nghiaht local ide-stuff
+**/.bloop
+**/.vscode
+**/.metals
